@@ -9,6 +9,8 @@ themselves, the purpose of this repo is to document bugs (and maybe some
 feature requests) for Hiby products (namely Hiby OS and Hiby Music for mobile
 platforms).
 
+I want to be clear that this is not intended as an attack on Hiby and their products. Rather, I'd like to help improve the products.
+
 Note that this is *totally unofficial*.
 
 Also note that the author is not employed by Hiby. Since no source code is (or
