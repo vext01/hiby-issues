@@ -14,4 +14,4 @@ Note that this is *totally unofficial*.
 Also note that the author is not employed by Hiby. Since no source code is (or
 likely ever will be) published for Hiby products, the community has no power to
 fix any of the bugs listed in this repo. It is our hope that Hiby will take
-notice of this repo and issue software updates to address these issues.
+notice of this repo and push software updates to address these issues.
